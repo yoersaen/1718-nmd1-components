@@ -18,14 +18,14 @@ html {
 }
 
 .primary-btn {
-    background-color: green;
+    background-color: rgb(18, 201, 18);
     color: white;
-    border-color: green;
+    border-color: rgb(18, 201, 18);
 }
 
 .primary-btn:hover {
     background: white;
-    color: green;
+    color: rgb(18, 201, 18);
 }
 
 .secondary-btn {
@@ -37,4 +37,16 @@ html {
 .secondary-btn:hover {
     background: white;
     color: blue;
+}
+
+.title {
+    font-weight: 300;
+}
+
+.main-title {
+    margin-top: 40px;
+}
+
+.paragraaf-preview {
+    width: 70%;
 }
