@@ -50,3 +50,12 @@ html {
 .paragraaf-preview {
     width: 70%;
 }
+
+div.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+div.buttons {
+    width: 400px;
+}
