@@ -1,0 +1,40 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    border: 1px solid #f00;
+    padding: 5px 16px;
+    border-radius: 3px;
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+}
+
+.btn:hover {
+    background: white;
+    color: red;
+}
+
+.primary-btn {
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+
+.primary-btn:hover {
+    background: white;
+    color: green;
+}
+
+.secondary-btn {
+    background: blue;
+    color: white;
+    border-color: blue;
+}
+
+.secondary-btn:hover {
+    background: white;
+    color: blue;
+}
