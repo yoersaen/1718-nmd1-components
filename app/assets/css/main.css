@@ -4,7 +4,7 @@ html {
 
 .btn {
     border: 1px solid #ff1744;
-    padding: 5px 16px;
+    padding: 10px 16px;
     border-radius: 3px;
     text-decoration: none;
     background-color: #ff1744;
@@ -51,10 +51,10 @@ html {
     width: 70%;
 }
 
-div.container {
+/* div.container {
     display: flex;
     justify-content: space-between;
-}
+} */
 
 div.buttons {
     width: 400px;
